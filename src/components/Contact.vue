@@ -17,10 +17,10 @@
   
   <script setup>
   const socialLinks = [
-    { name: 'GitHub', icon: '/src/images/github.png', url: '#' },
-    { name: 'LinkedIn', icon: '/src/images/linkedin.png', url: '#' },
-    { name: 'Facebook', icon: '/src/images/facebook.png', url: '#' },
-    { name: 'Gmail', icon: '/src/images/gmail.png', url: '#' },
+    { name: 'GitHub', icon: '/public/images/github.png', url: 'https://github.com/NdrantoMael' },
+    { name: 'LinkedIn', icon: '/public/images/linkedin.png', url: 'https://www.linkedin.com/in/ndranto-mael-6099352a3/' },
+    { name: 'Facebook', icon: '/public/images/facebook.png', url: 'https://www.facebook.com/profile.php?id=100041182233823' },
+    { name: 'Gmail', icon: '/public/images/gmail.png', url: 'https://mail.google.com/mail/u/0/?pli=1#inbox' },
   ];
   </script>
   
