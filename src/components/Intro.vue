@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-center justify-center min-h-screen bg-black text-white gap-4">
+  <div class="flex flex-col items-center justify-center min-h-screen bg-black text-white gap-4 mb-8 sm:mb-12 md:mb-0">
     <!-- Texte d'introduction -->
     <p class="text-gray-400 text-lg">Bonjour, je suis</p> 
     <h1 class="text-6xl font-extrabold">
